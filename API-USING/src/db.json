@@ -1,13 +1,30 @@
 {
-    "users":[{
-        "id":1,
-        "username":"enes12",
-        "password":"xx"
+  "users": [
+    {
+      "id": "2",
+      "username": "ece12",
+      "password": "xx",
+      "postId":"7"
     },
     {
-        "id":2,
-        "username":"ece12",
-        "password":"xx"
+      "username": "Çilek",
+      "password": "cilek123",
+      "id": "3198"
+    },
+    {
+      "username": "Dilek",
+      "password": "dilek123",
+      "id": "7c1b"
+    },
+    {
+      "id": "ff25",
+      "username": "ahmet",
+      "password": "1234"
+    },
+    {
+      "id": "6117",
+      "username": "mehmet",
+      "password": "1234"
     }
-]
+  ]
 }
